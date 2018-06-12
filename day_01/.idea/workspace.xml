@@ -1,0 +1,2716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="day_01:war exploded" />
+      <artifact name="day_02:war exploded" />
+      <artifact name="day_03:war exploded" />
+      <artifact name="day_04:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1de15f87-19fa-4d27-935a-b178e6c214e4" name="Default" comment="JSP获取全局属性">
+      <change afterPath="$PROJECT_DIR$/../SignDate/src/org/cherrygods/entity/Sign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SignDate/src/org/cherrygods/test/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SignDate/src/org/cherrygods/utils/DBHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SignDate/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SignDate_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day_03_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day_04_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/usage.statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_03/web/attr1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_02/day_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SignDate/SignDate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_03/day_03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_03/day_03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_03/note" beforeDir="false" afterPath="$PROJECT_DIR$/../day_03/note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_03/src/org/cherrygods/servlet/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_03/src/org/cherrygods/servlet/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_03/web/hello.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../day_03/web/hello.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_04/day_04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_04/day_04.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../day_02/target/" />
+    <ignored path="$PROJECT_DIR$/../day_03/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>service</find>
+      <find>next()</find>
+      <find>n</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/chezygods/utils/DBHelper.java" />
+        <option value="$PROJECT_DIR$/web/login.html" />
+        <option value="$PROJECT_DIR$/../day_02/src/org/cherrygods/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/../day_02/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/chezygods/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/note" />
+        <option value="$PROJECT_DIR$/../day_02/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../day_02/web/login.html" />
+        <option value="$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/MyServlet.java" />
+        <option value="$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/MyGenericServlet.java" />
+        <option value="$PROJECT_DIR$/../day_02/note" />
+        <option value="$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/MyHttpServlet.java" />
+        <option value="$PROJECT_DIR$/../day_03/src/test/a.java" />
+        <option value="$PROJECT_DIR$/../day_03/web/login.html" />
+        <option value="$PROJECT_DIR$/../day_03/src/org/cherrygods/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/../day_03/web/WEB-INF/hello.xhtml" />
+        <option value="$PROJECT_DIR$/../SignDate/src/org/cherrygods/test/DBHelper.java" />
+        <option value="$PROJECT_DIR$/../SignDate/src/org/cherrygods/utils/DBHelper.java" />
+        <option value="$PROJECT_DIR$/../SignDate/src/org/cherrygods/test/TestMain.java" />
+        <option value="$PROJECT_DIR$/../SignDate/src/org/cherrygods/entity/Sign.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/13cbc9f2-02fd-4963-b554-46e091d083d1/console.sql" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/utils/JdbcUtils.java" />
+        <option value="$PROJECT_DIR$/../day_04/web/list.jsp" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/servlet/AddressServlet/AddressServlet.java" />
+        <option value="$PROJECT_DIR$/../day_04/web/WEB-INF/add.jsp" />
+        <option value="$PROJECT_DIR$/../day_04/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../day_04/web/index.jsp" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/dao/Ａ.java" />
+        <option value="$PROJECT_DIR$/../day_04/web/edit.jsp" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/domain/Address.java" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/utils/JdbcUtil.java" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/dao/AddressDao.java" />
+        <option value="$PROJECT_DIR$/../day_04/web/add.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/web/error.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/web/hello2.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/web/hello.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/web/WEB-INF/attr1.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/pom.xml" />
+        <option value="$PROJECT_DIR$/../day_03/src/main/java/org/cherrygods/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/../day_03/src/main/java/org/cherrygods/servlet/HelloServlet.java" />
+        <option value="$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/../day_04/src/org/cherrygods/servlet/AddressServlet.java" />
+        <option value="$PROJECT_DIR$/../day_03/web/attr2.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/web/attr1.jsp" />
+        <option value="$PROJECT_DIR$/../day_03/src/main/java/org/cherrygods/servlet/TestAttr.java" />
+        <option value="$PROJECT_DIR$/../day_03/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../day_03/note" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1600" />
+    <option name="width" value="1600" />
+    <option name="height" value="1728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="7-6-2018">
+        <observation name="false" value="273.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="114.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="false" value="62.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="false" value="448.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="false" value="134.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="false" value="72.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="95.0" />
+        <observation name="false" value="178.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="false" value="81.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="51.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="78.0" />
+        <observation name="false" value="370.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="38.0" />
+        <observation name="false" value="96.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="false" value="38.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="7-6-2018">
+        <observation name="false" value="271.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="114.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="false" value="62.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="false" value="447.0" />
+        <observation name="true" value="1.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="false" value="131.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="false" value="72.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="7-6-2018">
+        <observation name="0" value="78.0" />
+        <observation name="UNDEFINED" value="195.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="0" value="34.0" />
+        <observation name="UNDEFINED" value="80.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="0" value="27.0" />
+        <observation name="UNDEFINED" value="35.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="0" value="156.0" />
+        <observation name="UNDEFINED" value="292.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="0" value="37.0" />
+        <observation name="UNDEFINED" value="97.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="0" value="12.0" />
+        <observation name="UNDEFINED" value="60.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="65.0" />
+        <observation name="true" value="159.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="false" value="30.0" />
+        <observation name="true" value="65.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="false" value="17.0" />
+        <observation name="true" value="35.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="false" value="67.0" />
+        <observation name="true" value="316.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="72.0" />
+        <observation name="true" value="35.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="29.0" />
+        <observation name="true" value="32.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="140.0" />
+        <observation name="true" value="84.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="false" value="63.0" />
+        <observation name="true" value="32.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="false" value="37.0" />
+        <observation name="true" value="15.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="false" value="196.0" />
+        <observation name="true" value="187.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="43.0" />
+        <observation name="true" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="143.0" />
+        <observation name="true" value="81.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="false" value="63.0" />
+        <observation name="true" value="32.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="false" value="40.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="false" value="218.0" />
+        <observation name="true" value="165.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="45.0" />
+        <observation name="true" value="16.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="143.0" />
+        <observation name="true" value="81.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="false" value="63.0" />
+        <observation name="true" value="32.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="false" value="37.0" />
+        <observation name="true" value="15.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="false" value="159.0" />
+        <observation name="true" value="224.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="95.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="44.0" />
+        <observation name="true" value="17.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="199.0" />
+        <observation name="true" value="25.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="false" value="67.0" />
+        <observation name="true" value="28.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="false" value="35.0" />
+        <observation name="true" value="17.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="false" value="303.0" />
+        <observation name="true" value="80.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="89.0" />
+        <observation name="true" value="18.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="55.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="7-6-2018">
+        <observation name="false" value="267.0" />
+        <observation name="true" value="6.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="false" value="111.0" />
+        <observation name="true" value="3.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="false" value="55.0" />
+        <observation name="true" value="7.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="false" value="446.0" />
+        <observation name="true" value="2.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="false" value="122.0" />
+        <observation name="true" value="12.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="false" value="72.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:accessible">
+      <dailyData date="7-6-2018">
+        <observation name="NORMAL" value="189.0" />
+        <observation name="UNDEFINED" value="84.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="NORMAL" value="81.0" />
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="NORMAL" value="52.0" />
+        <observation name="UNDEFINED" value="10.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="NORMAL" value="375.0" />
+        <observation name="UNDEFINED" value="73.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="NORMAL" value="100.0" />
+        <observation name="UNDEFINED" value="34.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="NORMAL" value="39.0" />
+        <observation name="UNDEFINED" value="33.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:expectedType">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="84.0" />
+        <observation name="expected" value="43.0" />
+        <observation name="maybeExpected" value="3.0" />
+        <observation name="normal" value="132.0" />
+        <observation name="ofDefaultType" value="11.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="expected" value="13.0" />
+        <observation name="maybeExpected" value="7.0" />
+        <observation name="normal" value="59.0" />
+        <observation name="ofDefaultType" value="2.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="expected" value="15.0" />
+        <observation name="maybeExpected" value="3.0" />
+        <observation name="normal" value="34.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="73.0" />
+        <observation name="expected" value="86.0" />
+        <observation name="maybeExpected" value="11.0" />
+        <observation name="normal" value="278.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="expected" value="19.0" />
+        <observation name="maybeExpected" value="3.0" />
+        <observation name="normal" value="78.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="expected" value="10.0" />
+        <observation name="maybeExpected" value="3.0" />
+        <observation name="normal" value="26.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:kind">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="84.0" />
+        <observation name="classNameOrGlobalStatic" value="43.0" />
+        <observation name="expectedTypeVariable" value="16.0" />
+        <observation name="normal" value="72.0" />
+        <observation name="probableKeyword" value="2.0" />
+        <observation name="suitableClass" value="6.0" />
+        <observation name="variable" value="50.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="classNameOrGlobalStatic" value="11.0" />
+        <observation name="expectedTypeVariable" value="3.0" />
+        <observation name="normal" value="30.0" />
+        <observation name="probableKeyword" value="8.0" />
+        <observation name="suitableClass" value="1.0" />
+        <observation name="variable" value="28.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="classNameOrGlobalStatic" value="13.0" />
+        <observation name="expectedTypeVariable" value="2.0" />
+        <observation name="normal" value="21.0" />
+        <observation name="probableKeyword" value="3.0" />
+        <observation name="variable" value="13.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="73.0" />
+        <observation name="classNameOrGlobalStatic" value="60.0" />
+        <observation name="expectedTypeVariable" value="36.0" />
+        <observation name="normal" value="141.0" />
+        <observation name="probableKeyword" value="12.0" />
+        <observation name="suitableClass" value="1.0" />
+        <observation name="variable" value="125.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="classNameOrGlobalStatic" value="13.0" />
+        <observation name="expectedTypeVariable" value="2.0" />
+        <observation name="normal" value="25.0" />
+        <observation name="probableKeyword" value="2.0" />
+        <observation name="variable" value="58.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="classNameOrGlobalStatic" value="4.0" />
+        <observation name="normal" value="17.0" />
+        <observation name="variable" value="18.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="unknown" value="224.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="unknown" value="95.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="unknown" value="52.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="unknown" value="383.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="unknown" value="107.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="unknown" value="61.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_javaInheritance">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="false" value="53.0" />
+        <observation name="null" value="171.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="false" value="14.0" />
+        <observation name="null" value="81.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="false" value="13.0" />
+        <observation name="null" value="39.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="false" value="62.0" />
+        <observation name="null" value="321.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="false" value="13.0" />
+        <observation name="null" value="94.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="false" value="6.0" />
+        <observation name="null" value="55.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:prox_referenceList">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="applicableByKind" value="10.0" />
+        <observation name="inapplicable" value="1.0" />
+        <observation name="unknown" value="213.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="unknown" value="95.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="unknown" value="52.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="unknown" value="383.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="unknown" value="107.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="applicableByKind" value="1.0" />
+        <observation name="unknown" value="60.0" />
+      </dailyData>
+    </factor>
+    <factor id="categoricalFeature:recursion">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="132.0" />
+        <observation name="delegation" value="4.0" />
+        <observation name="normal" value="131.0" />
+        <observation name="recursive" value="6.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="35.0" />
+        <observation name="normal" value="79.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="18.0" />
+        <observation name="delegation" value="1.0" />
+        <observation name="normal" value="43.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="122.0" />
+        <observation name="delegation" value="4.0" />
+        <observation name="normal" value="322.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="40.0" />
+        <observation name="normal" value="94.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="41.0" />
+        <observation name="normal" value="31.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="7-6-2018">
+        <observation name="cancelled" value="1532.0" />
+        <observation name="explicitSelect" value="245.0" />
+        <observation name="typedSelect" value="34.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="cancelled" value="297.0" />
+        <observation name="explicitSelect" value="68.0" />
+        <observation name="typedSelect" value="47.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="cancelled" value="499.0" />
+        <observation name="explicitSelect" value="47.0" />
+        <observation name="typedSelect" value="15.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="cancelled" value="1383.0" />
+        <observation name="explicitSelect" value="278.0" />
+        <observation name="typedSelect" value="173.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="cancelled" value="1267.0" />
+        <observation name="explicitSelect" value="91.0" />
+        <observation name="typedSelect" value="45.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="cancelled" value="655.0" />
+        <observation name="explicitSelect" value="49.0" />
+        <observation name="typedSelect" value="24.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="7-6-2018">
+        <observation name="BASIC" value="394.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="BASIC" value="153.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="BASIC" value="92.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="BASIC" value="672.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="BASIC" value="228.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="BASIC" value="129.0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="7-6-2018">
+        <observation name="count" value="1812.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="count" value="412.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="count" value="561.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="count" value="1834.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="count" value="1406.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="count" value="728.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="0.113762" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.108245" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.132159" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.083628" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="0.121951" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.111572" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0.178771" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.11167" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="0.059925" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.052977" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="0.041958" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.022265" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="241.0" />
+        <observation name="average" value="-5.634921" />
+        <observation name="count" value="63.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-23.0" />
+        <observation name="variance" value="57.413727" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="99.0" />
+        <observation name="average" value="-10.827586" />
+        <observation name="count" value="29.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-38.0" />
+        <observation name="variance" value="168.886303" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="46.0" />
+        <observation name="average" value="-9.0" />
+        <observation name="count" value="31.0" />
+        <observation name="max" value="-1.0" />
+        <observation name="min" value="-41.0" />
+        <observation name="variance" value="100.604465" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="427.0" />
+        <observation name="average" value="-13.365854" />
+        <observation name="count" value="41.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-70.0" />
+        <observation name="variance" value="474.402002" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="113.0" />
+        <observation name="average" value="-12.536585" />
+        <observation name="count" value="41.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-82.0" />
+        <observation name="variance" value="402.548553" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="average" value="-1.733333" />
+        <observation name="count" value="15.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-8.0" />
+        <observation name="variance" value="5.053294" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="84.0" />
+        <observation name="average" value="-0.153846" />
+        <observation name="count" value="377.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.203714" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="-0.024845" />
+        <observation name="count" value="161.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.016572" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="-0.058252" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.048797" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="73.0" />
+        <observation name="average" value="-0.034713" />
+        <observation name="count" value="749.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.028805" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="199.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="77.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="0.275229" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="13.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="1.956994" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.079295" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="3.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.091341" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="0.227642" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.574988" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0.078212" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="7.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.179074" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="0.456929" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="29.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="3.750436" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="0.195804" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="7.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.994962" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="-1099.924771" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1202.0" />
+        <observation name="variance" value="54109.453093" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="-1081.449339" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="42043.33753" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="-1064.422764" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1303.0" />
+        <observation name="variance" value="76472.317673" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="-1114.840223" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1303.0" />
+        <observation name="variance" value="19449.00114" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="-1064.902622" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="55542.845447" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="-1116.783217" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1203.0" />
+        <observation name="variance" value="25035.795171" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="0.084404" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.098591" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.070485" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.035753" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="0.081301" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.437402" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0.459665" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="10.2" />
+        <observation name="min" value="-2.0" />
+        <observation name="variance" value="2.807632" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="0.014981" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="-2.0" />
+        <observation name="variance" value="0.09588" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="1.608392" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="50.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="92.463477" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="average" value="120.581655" />
+        <observation name="count" value="447.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="16697.203632" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="average" value="110.582011" />
+        <observation name="count" value="189.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="15205.714717" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="80.582524" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="13692.235105" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="average" value="142.222222" />
+        <observation name="count" value="765.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="16204.129108" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="38.967136" />
+        <observation name="count" value="213.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="9229.673306" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="average" value="83.471074" />
+        <observation name="count" value="121.0" />
+        <observation name="max" value="300.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="10511.366132" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="average" value="0.653244" />
+        <observation name="count" value="447.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="3.635942" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="average" value="1.015873" />
+        <observation name="count" value="189.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="5.418979" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="0.912621" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="3.347935" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="average" value="0.776471" />
+        <observation name="count" value="765.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="5.013516" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="0.779343" />
+        <observation name="count" value="213.0" />
+        <observation name="max" value="8.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="4.569348" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="average" value="0.297521" />
+        <observation name="count" value="121.0" />
+        <observation name="max" value="5.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.609429" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="average" value="0.751678" />
+        <observation name="count" value="447.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.847578" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="average" value="0.687831" />
+        <observation name="count" value="189.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.729055" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="0.582524" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.681403" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="average" value="1.176471" />
+        <observation name="count" value="765.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.797887" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="0.215962" />
+        <observation name="count" value="213.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.408566" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="average" value="0.61157" />
+        <observation name="count" value="121.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.531241" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="average" value="0.58613" />
+        <observation name="count" value="447.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.7373" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="19.0" />
+        <observation name="average" value="0.656085" />
+        <observation name="count" value="189.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.723859" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="0.466019" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.625346" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="65.0" />
+        <observation name="average" value="0.836601" />
+        <observation name="count" value="765.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.773769" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="27.0" />
+        <observation name="average" value="0.197183" />
+        <observation name="count" value="213.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.383887" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="11.0" />
+        <observation name="average" value="0.429752" />
+        <observation name="count" value="121.0" />
+        <observation name="max" value="2.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.396564" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="0.0" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="9.166973" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="21.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="24.008492" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="5.938326" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="17.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="11.289706" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="7.333333" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="20.0" />
+        <observation name="min" value="2.0" />
+        <observation name="variance" value="14.12107" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="6.350838" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="21.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="12.680727" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="6.655431" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="21.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="20.709115" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="7.167832" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="20.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="13.195787" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="84.0" />
+        <observation name="average" value="-0.180371" />
+        <observation name="count" value="377.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.217189" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="-0.024845" />
+        <observation name="count" value="161.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.016572" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="-0.038835" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.020528" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="73.0" />
+        <observation name="average" value="-0.037383" />
+        <observation name="count" value="749.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-1.0" />
+        <observation name="variance" value="0.030089" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="199.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="77.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="84.0" />
+        <observation name="average" value="-95.273209" />
+        <observation name="count" value="377.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="65346.204005" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="-24.807453" />
+        <observation name="count" value="161.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="16522.408021" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="-58.174757" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="48678.728238" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="73.0" />
+        <observation name="average" value="-34.662216" />
+        <observation name="count" value="749.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-999.0" />
+        <observation name="variance" value="28715.891954" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="199.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="77.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="84.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="377.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="161.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="10.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="103.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="73.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="749.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="34.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="199.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="33.0" />
+        <observation name="average" value="0.0" />
+        <observation name="count" value="77.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="1.0" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="1.0" />
+        <observation name="min" value="1.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="7-6-2018">
+        <observation name="UNDEFINED" value="225.0" />
+        <observation name="average" value="-3.0" />
+        <observation name="count" value="95.0" />
+        <observation name="max" value="-3.0" />
+        <observation name="min" value="-3.0" />
+        <observation name="variance" value="0.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="UNDEFINED" value="110.0" />
+        <observation name="average" value="-4.142857" />
+        <observation name="count" value="7.0" />
+        <observation name="max" value="-3.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.404354" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="UNDEFINED" value="49.0" />
+        <observation name="average" value="-3.16" />
+        <observation name="count" value="25.0" />
+        <observation name="max" value="-3.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.146576" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="UNDEFINED" value="387.0" />
+        <observation name="average" value="-3.297521" />
+        <observation name="count" value="121.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.657619" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="UNDEFINED" value="126.0" />
+        <observation name="average" value="-2.666667" />
+        <observation name="count" value="15.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="1.256907" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="UNDEFINED" value="64.0" />
+        <observation name="average" value="-2.733333" />
+        <observation name="count" value="15.0" />
+        <observation name="max" value="0.0" />
+        <observation name="min" value="-5.0" />
+        <observation name="variance" value="0.682602" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="2494.146789" />
+        <observation name="count" value="545.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="13910692.4952" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="2465.189427" />
+        <observation name="count" value="227.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="10643727.705536" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="2682.113821" />
+        <observation name="count" value="123.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="16758704.136761" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="2546.867039" />
+        <observation name="count" value="895.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="17965639.750004" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="2094.943821" />
+        <observation name="count" value="267.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="15490455.148429" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="2653.062937" />
+        <observation name="count" value="143.0" />
+        <observation name="max" value="10000.0" />
+        <observation name="min" value="0.0" />
+        <observation name="variance" value="17041669.872334" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="7-6-2018">
+        <observation name="0" value="201.0" />
+        <observation name="1" value="28.0" />
+        <observation name="13" value="1.0" />
+        <observation name="2" value="11.0" />
+        <observation name="3" value="3.0" />
+        <observation name="4" value="1.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="0" value="62.0" />
+        <observation name="1" value="4.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="1.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="0" value="42.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="1.0" />
+        <observation name="3" value="2.0" />
+        <observation name="5" value="1.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="0" value="254.0" />
+        <observation name="1" value="19.0" />
+        <observation name="2" value="2.0" />
+        <observation name="3" value="1.0" />
+        <observation name="4" value="1.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="0" value="74.0" />
+        <observation name="1" value="11.0" />
+        <observation name="2" value="1.0" />
+        <observation name="29" value="1.0" />
+        <observation name="3" value="2.0" />
+        <observation name="5" value="1.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="0" value="41.0" />
+        <observation name="1" value="7.0" />
+        <observation name="7" value="1.0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="7-6-2018">
+        <observation name="total" value="215.0" />
+        <observation name="withMnemonics" value="12.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="total" value="57.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="total" value="42.0" />
+        <observation name="withMnemonics" value="2.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="total" value="258.0" />
+        <observation name="withMnemonics" value="50.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="total" value="75.0" />
+        <observation name="withMnemonics" value="7.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="total" value="45.0" />
+        <observation name="withMnemonics" value="3.0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="7-6-2018">
+        <observation name="0" value="12.0" />
+        <observation name="1" value="18.0" />
+        <observation name="10" value="3.0" />
+        <observation name="11" value="1.0" />
+        <observation name="12" value="1.0" />
+        <observation name="2" value="95.0" />
+        <observation name="3" value="68.0" />
+        <observation name="4" value="26.0" />
+        <observation name="5" value="8.0" />
+        <observation name="6" value="5.0" />
+        <observation name="7" value="7.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="0" value="7.0" />
+        <observation name="1" value="4.0" />
+        <observation name="10" value="1.0" />
+        <observation name="12" value="1.0" />
+        <observation name="2" value="21.0" />
+        <observation name="3" value="16.0" />
+        <observation name="4" value="7.0" />
+        <observation name="5" value="7.0" />
+        <observation name="7" value="3.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="0" value="4.0" />
+        <observation name="1" value="1.0" />
+        <observation name="10" value="1.0" />
+        <observation name="2" value="7.0" />
+        <observation name="3" value="11.0" />
+        <observation name="4" value="16.0" />
+        <observation name="5" value="2.0" />
+        <observation name="6" value="4.0" />
+        <observation name="8" value="1.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="0" value="9.0" />
+        <observation name="1" value="11.0" />
+        <observation name="10" value="5.0" />
+        <observation name="2" value="58.0" />
+        <observation name="3" value="89.0" />
+        <observation name="4" value="47.0" />
+        <observation name="5" value="31.0" />
+        <observation name="6" value="14.0" />
+        <observation name="7" value="10.0" />
+        <observation name="8" value="2.0" />
+        <observation name="9" value="2.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="0" value="9.0" />
+        <observation name="1" value="7.0" />
+        <observation name="2" value="36.0" />
+        <observation name="3" value="19.0" />
+        <observation name="4" value="13.0" />
+        <observation name="5" value="1.0" />
+        <observation name="6" value="3.0" />
+        <observation name="7" value="3.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="0" value="3.0" />
+        <observation name="1" value="1.0" />
+        <observation name="2" value="11.0" />
+        <observation name="3" value="13.0" />
+        <observation name="4" value="8.0" />
+        <observation name="5" value="5.0" />
+        <observation name="6" value="4.0" />
+        <observation name="7" value="4.0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="7-6-2018">
+        <observation name="average" value="215.402032" />
+        <observation name="count" value="689.0" />
+      </dailyData>
+      <dailyData date="8-6-2018">
+        <observation name="average" value="233.760714" />
+        <observation name="count" value="280.0" />
+      </dailyData>
+      <dailyData date="9-6-2018">
+        <observation name="average" value="200.077465" />
+        <observation name="count" value="142.0" />
+      </dailyData>
+      <dailyData date="10-6-2018">
+        <observation name="average" value="177.870276" />
+        <observation name="count" value="979.0" />
+      </dailyData>
+      <dailyData date="11-6-2018">
+        <observation name="average" value="285.410646" />
+        <observation name="count" value="263.0" />
+      </dailyData>
+      <dailyData date="12-6-2018">
+        <observation name="average" value="221.803109" />
+        <observation name="count" value="193.0" />
+      </dailyData>
+    </factor>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day_01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="next&#9;PSI&#9;JAVA://com.sun.corba.se.impl.util.IdentityHashtableEntry#next&#10;HttpSer&#9;FILE&#9;jar:///home/cherrygods/software/TomcatServers/Tomcat7.0/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day_03/web/login.html" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../day_03/web" />
+      <recent name="$PROJECT_DIR$/../day_04/web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat7.0">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528785731139" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528785731140" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.cherrygods.test.TestMain" />
+      <module name="SignDate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.cherrygods.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat7.0" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.88" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="day_04:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day04" />
+          </settings>
+        </artifact>
+        <artifact name="day_01:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day01" />
+          </settings>
+        </artifact>
+        <artifact name="day_02:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day02" />
+          </settings>
+        </artifact>
+        <artifact name="day_03:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/day03" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_day_01" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="38325" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="day_01:war exploded" />
+          <artifact name="day_02:war exploded" />
+          <artifact name="day_03:war exploded" />
+          <artifact name="day_04:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat7.0" />
+      <item itemvalue="Application.TestMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de15f87-19fa-4d27-935a-b178e6c214e4" name="Default" comment="" />
+      <created>1528288146870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528288146870</updated>
+      <workItem from="1528288148510" duration="1481000" />
+      <workItem from="1528336616770" duration="157000" />
+      <workItem from="1528336871286" duration="12768000" />
+      <workItem from="1528377524972" duration="1069000" />
+      <workItem from="1528378657610" duration="289000" />
+      <workItem from="1528379193319" duration="4663000" />
+      <workItem from="1528423308517" duration="341000" />
+      <workItem from="1528440023636" duration="5376000" />
+      <workItem from="1528455143309" duration="1382000" />
+      <workItem from="1528473033102" duration="1242000" />
+      <workItem from="1528518276422" duration="10547000" />
+      <workItem from="1528621279078" duration="12296000" />
+      <workItem from="1528680428734" duration="16152000" />
+      <workItem from="1528721087171" duration="269000" />
+      <workItem from="1528721412107" duration="2741000" />
+      <workItem from="1528780943321" duration="1327000" />
+      <workItem from="1528782426822" duration="2958000" />
+      <workItem from="1528785423471" duration="75000" />
+      <workItem from="1528785543266" duration="187000" />
+    </task>
+    <task id="LOCAL-00001" summary="了解ServletResponse主要方法">
+      <created>1528348664474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528348664475</updated>
+    </task>
+    <task id="LOCAL-00002" summary="做了一个小练习">
+      <created>1528350040931</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528350040931</updated>
+    </task>
+    <task id="LOCAL-00003" summary="将小练习独立放到day_02项目里了">
+      <created>1528351076333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528351076333</updated>
+    </task>
+    <task id="LOCAL-00004" summary="练习题目参见项目中的note.txt文件">
+      <created>1528351113606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528351113606</updated>
+    </task>
+    <task id="LOCAL-00005" summary="自定义了一个抽象类，用于简化编写LoginServlet">
+      <created>1528353689224</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528353689224</updated>
+    </task>
+    <task id="LOCAL-00006" summary="进一步简化LoginServlet的代码编写">
+      <created>1528357198275</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528357198275</updated>
+    </task>
+    <task id="LOCAL-00007" summary="解决了在LoginServlet覆盖父类init()方法时的错误">
+      <created>1528363808010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1528363808010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="解决了response out.write()乱码的问题">
+      <created>1528519270368</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1528519270368</updated>
+    </task>
+    <task id="LOCAL-00009" summary="mysql+servlet+jsp实现crud">
+      <created>1528625130577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1528625130577</updated>
+    </task>
+    <task id="LOCAL-00010" summary="mysql+servlet+jsp实现crud">
+      <created>1528637597496</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1528637597496</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mysql+servlet+jsp实现crud">
+      <created>1528688637035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1528688637035</updated>
+    </task>
+    <task id="LOCAL-00012" summary="JSP的9大隐含对象">
+      <created>1528694343122</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528694343122</updated>
+    </task>
+    <task id="LOCAL-00013" summary="JSP的表达式">
+      <created>1528702596949</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528702596949</updated>
+    </task>
+    <task id="LOCAL-00014" summary="JSP的语法">
+      <created>1528708429035</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528708429035</updated>
+    </task>
+    <task id="LOCAL-00015" summary="JSP的表达式">
+      <created>1528708466652</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1528708466652</updated>
+    </task>
+    <task id="LOCAL-00016" summary="JSP的语法">
+      <created>1528708527437</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528708527437</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75315000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-42" width="3200" height="1770" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49528795" visible="true" weight="0.23870967" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50471205" side_tool="true" weight="0.26451612" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49935484" weight="0.3441156" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298611" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.33472222" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33192685" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064516" side_tool="true" weight="0.3449692" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32966277" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49528795" weight="0.48123324" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.50471205" side_tool="true" weight="0.26451612" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49935484" visible="true" weight="0.3441156" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298611" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.33472222" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33192685" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064516" side_tool="true" weight="0.34499314" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32966277" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32911393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="了解ServletResponse主要方法" />
+    <MESSAGE value="做了一个小练习" />
+    <MESSAGE value="将小练习独立放到day_02项目里了" />
+    <MESSAGE value="练习题目参见项目中的note.txt文件" />
+    <MESSAGE value="自定义了一个抽象类，用于简化编写LoginServlet" />
+    <MESSAGE value="进一步简化LoginServlet的代码编写" />
+    <MESSAGE value="解决了在LoginServlet覆盖父类init()方法时的错误" />
+    <MESSAGE value="解决了response out.write()乱码的问题" />
+    <MESSAGE value="mysql+servlet+jsp实现crud" />
+    <MESSAGE value="JSP的9大隐含对象" />
+    <MESSAGE value="JSP的表达式" />
+    <MESSAGE value="JSP的语法" />
+    <MESSAGE value="JSP获取全局属性" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSP获取全局属性" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/software/TomcatServers/Tomcat7.0/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="279" column="9" lean-forward="true" selection-start-line="279" selection-start-column="9" selection-end-line="279" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/TomcatServers/Tomcat7.0/lib/servlet-api.jar!/javax/servlet/Servlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="186" selection-start-line="186" selection-end-line="186" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day_01.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/MyGenericServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/MyHttpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/TomcatServers/apache-tomcat-7.0.88-src/java/javax/servlet/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/MyServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/src/test/a.java" />
+    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8-for-linux_64x/src.zip!/com/sun/corba/se/impl/util/IdentityHashtableEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8-for-linux_64x/src.zip!/java/sql/Wrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8-for-linux_64x/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8-for-linux_64x/src.zip!/java/sql/PreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="1303" column="72" selection-start-line="1303" selection-start-column="71" selection-end-line="1303" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/software/jdk/jdk1.8-for-linux_64x/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="252" column="43" lean-forward="true" selection-start-line="252" selection-start-column="43" selection-end-line="252" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/TomcatServers/apache-tomcat-7.0.88-src/java/javax/servlet/annotation/WebServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="68" column="34" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/TomcatServers/apache-tomcat-7.0.88-src/java/javax/servlet/http/HttpServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="85" column="79" lean-forward="true" selection-start-line="85" selection-start-column="79" selection-end-line="85" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/WEB-INF/hello.xhtml" />
+    <entry file="file://$PROJECT_DIR$/../SignDate/src/org/cherrygods/Utils.java" />
+    <entry file="file://$PROJECT_DIR$/../SignDate/src/org/cherrygods/entity/Sign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SignDate/src/org/cherrygods/utils/DBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/13cbc9f2-02fd-4963-b554-46e091d083d1/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/src/org/cherrygods/dao/Ａ.java" />
+    <entry file="file://$USER_HOME$/software/TomcatServers/apache-tomcat-7.0.88-src/java/javax/servlet/http/HttpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="178" column="5" lean-forward="true" selection-start-line="178" selection-start-column="5" selection-end-line="178" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/web/add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/src/org/cherrygods/domain/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/web/edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/web/list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/src/org/cherrygods/utils/JdbcUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/src/org/cherrygods/dao/AddressDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../SignDate/src/org/cherrygods/test/TestMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/error.jsp" />
+    <entry file="file://$PROJECT_DIR$/../day_02/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="45" column="77" selection-start-line="45" selection-start-column="77" selection-end-line="45" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/software/TomcatServers/apache-tomcat-7.0.88-src/java/javax/servlet/ServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="73" column="50" selection-start-line="73" selection-start-column="11" selection-end-line="73" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/hello2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_04/src/org/cherrygods/servlet/AddressServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_02/src/main/java/org/cherrygods/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/attr1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/attr2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/note">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="75" column="11" lean-forward="true" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/src/main/java/org/cherrygods/servlet/HelloServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/src/main/java/org/cherrygods/servlet/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-346">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/src/main/java/org/cherrygods/servlet/TestAttr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../day_03/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1274">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>day_03:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (day_01)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day_03</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:servlet-api:2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,46 @@
+小练习：
+    在web.xml配置两个web应用初始化参数，分别是initUser、initPassword，
+    创建一个login.html，里面定义两个请求字段，分别是user、password，
+    再创建一个LoginServlet，获取请求的user，password跟web初始化参数的initUser、initPassword是否一致，
+    若一致，则响应Hello，user，若不一致，则响应，Sorry，user。user是login.html里面定义的字段
+=============================================================================
+实现GenericsServlet功能，简化Servlet的编写
+    代码：
+    private ServletConfig servletConfig;
+    @Override
+    public void init(ServletConfig servletConfig) throws ServletException {
+        this.servletConfig = servletConfig;
+        this.init();
+    }
+
+    public void init() throws ServletException {
+    }
+    这样Servlet直接重写init()方法可以直接获取到ServletConfig对象
+=============================================================================
+实现HttpServlet功能，自动将Service()方法中的ServletRequest,ServletResponse
+转化为HttpServletRequest和HttpServletResponse,并且可以直接选用Post协议或Get协议
+    @Override
+    public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
+        HttpServletResponse httpServletResponse;
+        HttpServletRequest httpServletRequest;
+        try {
+            httpServletRequest = (HttpServletRequest) servletRequest;
+            httpServletResponse = (HttpServletResponse) servletResponse;
+        } catch (ClassCastException e) {
+            throw new ServletException("non-HTTP request or response");
+        }
+            service(httpServletRequest,httpServletResponse);
+    }
+    public void service(HttpServletRequest res,HttpServletResponse resp)throws ServletException, IOException{
+        String method = res.getMethod();
+        if("GET".equalsIgnoreCase(method)){
+            doGet(res,resp);
+        }else if("POST".equalsIgnoreCase(method)){
+            doPost(res,resp);
+        }
+    }
+    public void doPost(HttpServletRequest res,HttpServletResponse resp)throws ServletException, IOException{
+    }
+    public void doGet(HttpServletRequest res,HttpServletResponse resp)throws ServletException, IOException{
+    }
+=============================================================================

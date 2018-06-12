@@ -1,0 +1,193 @@
+=============================================================================
+Servlet生命周期：
+    1.init()方法
+        在生命周期中，只被调用一次，用于初始化配置。无论有多少客户访问都不会重复调用。
+        可以被自定义init()覆盖，相似例子：初始化数据库连接。
+    2.service()方法
+        当用户每次调用某个Servlet时就会被调用一次，也是Servlet的核心。当该方法被调用时
+        会传递两个参数，分别是（请求）ServletRequest（响应）ServletRepose。
+    3.destroy()方法
+        在生命周期中，只会被调用一次，用于销毁HttpServlet对象，在服务器关闭时，进行的操作。
+
+其他的方法：
+    1.getServletConfig()方法
+        用来返回一个ServletContext对象和初始化参数
+    2.getServletInfo()方法
+        用来保存当前Servlet的信息，例如，作者，版本，版权，相关信息等...
+=============================================================================
+配置和映射Servlet：
+    <!--配置Servlet-->
+    <servlet>
+        <!--给这个Servlet定义一个名称，随便取，不过要见名知意-->
+        <servlet-name>HelloServlet</servlet-name>
+        <!--指定的Servlet的全类名-->
+        <servlet-class>org.chezygods.servlet.HelloServlet</servlet-class>
+    </servlet>
+    <!--映射Servlet-->
+    <servlet-mapping>
+        <!--这个映射的name要跟配置Servlet的name要相对应-->
+        <servlet-name>HelloServlet</servlet-name>
+        <!--指定Servlet的默认访问路径-->
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+=============================================================================
+load-on-startup的创建方式与详解：
+    <!--在一个可执行的Servlet中定义一个创建时期，若有-->
+    <!--多个Servlet我们可以用此项配置作一个Servlet加载优先级。-->
+    <!--若为负数，那么Servlet就在第一次被请求的时候创建。-->
+    <!--若为0或正数，那么就是在Servlet容器加载当前web应用时创建。-->
+    <!--数值越低越先提前创建。-->
+    <!--需要放在配置Servlet的节点中 -->
+    <load-on-startup>-1</load-on-startup>
+=============================================================================
+init-param的创建方式：
+    <!--初始化一个参数-->
+    <!--必须放在load-on-startup之前-->
+    <init-param>
+        <!--参数名-->
+        <param-name>user</param-name>
+        <!--参数值-->
+        <param-value>CherryGods</param-value>
+    </init-param>
+    <init-param>
+        <param-name>password</param-name>
+        <param-value>root</param-value>
+    </init-param>
+=============================================================================
+获取init-param的参数：
+主要方法：
+    //获取初始化参数组成的Enumeration
+    Enumeration<String> eList = servletConfig.getInitParameterNames();
+    while (eList.hasMoreElements()){
+        String name = eList.nextElement();
+        //获取参数的value
+        String value = servletConfig.getInitParameter(name);
+        System.out.println(name);
+    }
+    //获取指定的初始化参数
+    String name = servletConfig.getInitParameter("user");
+    System.out.println(name);
+    //获取Servlet配置名称
+    String servletName = servletConfig.getServletName();
+    System.out.println(servletName);
+=============================================================================
+ServletContext的作用：
+主要方法：
+    相当于当前Web应用的application对象，可以把ServletContext看作是当前Web应用的
+    管家，它可以获取所有关于当前Web应用的信息。
+配置ServletContext初始化参数：
+    <!--配置当前Web应用的初始化参数-->
+    <context-param>
+        <param-name>driver</param-name>
+        <param-value>com.mysql.jdbc.Driver</param-value>
+    </context-param>
+
+当前Web应用初始化参数和init-param初始化参数的区别：
+    由ServletContext定义的初始化参数是全局的，可以在当前Web应用下的任何Servlet获取
+    ，但是init-param的初始化参数是局部的，只能在当前的Servlet下才可以获取。
+=============================================================================
+主要方法：
+获取当前Web应用的初始化参数：
+    //获取ServletContext
+    ServletContext servletContext = servletConfig.getServletContext();
+    //获取初始化参数的名称
+    Enumeration<String>eList2 = servletContext.getInitParameterNames();
+    while (eList2.hasMoreElements()){
+        String name2 = eList2.nextElement();
+        String value = servletContext.getInitParameter(name2);
+        System.out.println("name:"+name2+"\tvalue:"+value);
+    }
+获取当前web应用的某个资源文件的服务端绝对路径:
+    //注意，资源文件必须是在Web-Content目录下，不然是无法获取到的
+    String realPath = servletContext.getRealPath("note.txt");
+    System.out.println("服务端绝对路径:"+realPath);
+获取当前web应用的名称:
+    //注意，如果设置的名称为'/'那么，就会为一个空字符串
+    String servletName2 =servletContext.getContextPath();
+    System.out.println("当前Web应用的名称:"+servletName2);
+获取当前web应用某个文件的输入流:
+    //以ServletContext的方式获取输入流
+    //InputStream is2 = servletContext.getResourceAsStream("test.properties");
+    //必须指定到服务端源文件的路径才可以获取到，否则是获取不到的
+    InputStream is2 = servletContext.getResourceAsStream("/WEB-INF/classes/test.properties");
+    System.out.println(is2);
+=============================================================================
+Get请求和Post请求
+    1.Get请求方式
+        ①：在浏览器地址栏输入url或点击某个超链接，浏览器发出的Http请求消息的请求方式就是一个Get请求
+        ②：在Form表单中的method属性被设置了"Get"，当点击提交时发送的Http请求消息的请求方式是Get请求
+        ③：在浏览器地址中，有以'?'号连接的url是Get请求，例如:localhost:8080/login.html?user=a&password=a
+        ④：使用Get请求方式的数据量一般都是在1kb一下的。
+    2.Post请求方式
+        ①：主要用于表单提交的数据传递。
+        ②：请求的http数据为实数据，所以数据量会较大，一般大于2mb
+        ③：浏览器中可以再From data里查看到
+=============================================================================
+获取各种参数的方法
+主要方法：
+    //更具请求参数的名称，返回一个参数值，若存在多个数据，则只返回第一个
+    String getParameter(String name);
+        代码：
+        String user = servletRequest.getParameter("user");
+        String password = servletRequest.getParameter("password");
+        System.out.println("user:"+user+"password:"+password);
+    //根据请求参数的名字，返回一个字符串形式的数组
+    String getParameterValues(String name);
+        代码：
+        String[] list = servletRequest.getParameterValues("interesting");
+        for (String s : list) {
+            System.out.println(s);
+        }
+    //返回参数名对应的Enumeration对象,类似与ServletContext或SerletConfig的getInitParameterNames()方法
+    Enumeration<String> getParameterNames();
+        代码：
+        Enumeration<String> eList = servletRequest.getParameterNames();
+        while (eList.hasMoreElements()){
+        System.out.println("name:"+eList.nextElement());
+        }
+    //返回一个map，key为String，value为String数组，key为名称，value为参数值
+    Map<String,String[]> getParameterMap();
+        代码：
+        Map<String, String[]> map = servletRequest.getParameterMap();
+        for (Map.Entry<String, String[]> stringEntry : map.entrySet()) {
+            System.out.println(stringEntry.getKey());
+            System.out.println(Arrays.asList(stringEntry.getValue()));
+        }
+    //获取当前请求的协议
+    String getScheme();
+    //获取接受请求接口的地址
+    String getLocalAddr();
+    //获取客户端的地址或最后一次以internation协议请求的地址
+    String getRemoteAddr();
+=============================================================================
+ServletRequest子接口HttpServletRequest部分方法的功能介绍
+主要方法：
+    //获取请求的地址URI
+    HttpServletRequest httpServletRequest = (HttpServletRequest) servletRequest;
+    String uri = httpServletRequest.getRequestURI();
+    System.out.println(uri);
+    //获取请求方式
+    String method = httpServletRequest.getMethod();
+    System.out.println(method);
+    //获取请求的地址URL
+    StringBuffer URL = httpServletRequest.getRequestURL();
+    System.out.println(URL.toString());
+    /*总之，所有关于请求的信息都可以在这里获取到*/
+=============================================================================
+SererResponse封装了响应信息
+主要方法：
+    getWrite()返回一个PrintWrite对象,用于打印数据到浏览器页面上
+        代码：
+        PrintWriter print = servletResponse.getWriter();
+                print.write("HelloWorld");
+    setContentType()设置响应类型
+        代码：
+        //里面的参数可以在Tomcat/conf/web.xml--<mine-mapping/>节点下看参数格式,这里是设置了一个word文档类型
+        servletResponse.setContentType("application/msword" );
+=============================================================================
+HttpServletResponse封装了更多关于http的响应请求信息
+主要方法：
+    void sendRedirect(String location);请求重定向
+
+
+

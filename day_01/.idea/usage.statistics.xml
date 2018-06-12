@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1393971750">
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="html" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="48" />
+          <entry key="jsp" value="17" />
+          <entry key="note" value="6" />
+          <entry key="sql" value="1" />
+          <entry key="xhtml" value="1" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="HTML" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="48" />
+          <entry key="JSP" value="17" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Scratch" value="1" />
+          <entry key="XHTML" value="1" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="dummy" value="1" />
+          <entry key="html" value="107" />
+          <entry key="java" value="6142" />
+          <entry key="jsp" value="1561" />
+          <entry key="note" value="2487" />
+          <entry key="sql" value="758" />
+          <entry key="txt" value="249" />
+          <entry key="xhtml" value="1" />
+          <entry key="xml" value="606" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="HTML" value="107" />
+          <entry key="JAVA" value="6142" />
+          <entry key="JSP" value="1561" />
+          <entry key="PLAIN_TEXT" value="2737" />
+          <entry key="Scratch" value="758" />
+          <entry key="XHTML" value="1" />
+          <entry key="XML" value="606" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+</project>
